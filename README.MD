@@ -15,3 +15,9 @@ git push           // Push To Remote Repository
 git pull           // Pull Lates From Remote Repository
 git clone          // Clone Repository Into A New Directory
 ```
+
+Branch
+```bash=
+git branch <branch name>      // Create a Branch
+git checkout <branch name>    // Switch to Branch Name
+```
