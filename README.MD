@@ -20,4 +20,5 @@ Branch
 ```bash=
 git branch <branch name>      // Create a Branch
 git checkout <branch name>    // Switch to Branch Name
+git merge <branch name>       // Master Merge Branch Name
 ```
